@@ -40,7 +40,7 @@ let questions = [
     choice2: "Whooping cough",
     choice3: "Bronchitis ",
     choice4: "Pneumonia",
-    answer: 3
+    answer: 2
   },
   {
     question: "Perhaps unexpectedly, which of the following condition can be diagnosed because of a cough? ",
